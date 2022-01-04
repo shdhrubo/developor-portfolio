@@ -26,4 +26,5 @@ section{
     background-image: linear-gradient(orange,tomato);
     padding: 10px 40px;
     border-radius: 5px ;
+    font-weight: 700;
 }
